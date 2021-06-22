@@ -1,4 +1,4 @@
-module github.com/Sjeanpierre/passenger-datadog-monitor
+module github.com/teamsnap/passenger-datadog-monitor
 
 go 1.16
 
@@ -9,4 +9,4 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 )
 
-replace github.com/Sjeanpierre/passenger-datadog-monitor => github.com/teamsnap/passenger-datadog-monitor v0.9.2-teamsnap
+replace github.com/sjeanpierre/passenger-datadog-monitor => github.com/teamsnap/passenger-datadog-monitor v1.0.1-teamsnap
